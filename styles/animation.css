@@ -1,0 +1,103 @@
+.laptop {
+  display: block;
+  text-indent: -9999px;
+  width: 500px;
+  height: 280px;
+  background: url(../images/laptop.svg);
+  background-size: 500px 280px;
+  position: relative;
+  top: 20px;
+  margin-right: 20px; }
+
+.chat-base {
+  display: block;
+  text-indent: -9999px;
+  width: 50px;
+  height: 80px;
+  background: url(../images/chat-base.svg);
+  background-size: 50px 80px;
+  position: relative;
+  left: 335px;
+  top: 158px; }
+
+.chat-item-left {
+  display: block;
+  text-indent: -9999px;
+  width: 60px;
+  height: 7px;
+  background: url(../images/chat-item-left.svg);
+  background-size: 60px 7px;
+  position: relative;
+  left: -6px;
+  top: 22px; }
+
+.chat-item-right {
+  display: block;
+  text-indent: -9999px;
+  width: 60px;
+  height: 7px;
+  background: url(../images/chat-item-right.svg);
+  background-size: 60px 7px;
+  position: relative;
+  right: 5px;
+  top: 28px; }
+
+.heart {
+  display: block;
+  text-indent: -9999px;
+  width: 18px;
+  height: 18px;
+  background: url(../images/heart.svg);
+  background-size: 18px 18px;
+  position: relative;
+  right: -16px;
+  top: 34px; }
+
+.heart-2 {
+  display: block;
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+  background: url(../images/heart.svg);
+  background-size: 32px 32px;
+  position: relative;
+  left: 29px;
+  top: 20px; }
+
+.main-fm {
+  display: block;
+  text-indent: -9999px;
+  width: 90px;
+  height: 70px;
+  background: url(../images/main-fm.svg);
+  background-size: 90px 70px;
+  position: relative;
+  left: 250px;
+  top: 77px; }
+@-moz-document url-prefix() {
+  .main-fm {
+    top: 158px;
+    left: 310px; } }
+.stt {
+  display: block;
+  text-indent: -9999px;
+  width: 115px;
+  height: 28px;
+  background: url(../images/stt.svg);
+  background-size: 115px 28px;
+  position: relative;
+  left: 193px;
+  top: -74px; }
+@-moz-document url-prefix() {
+  .stt {
+    width: 121px;
+    background-size: 121px 28px;
+    left: 190px;
+    top: 6px; } }
+#heart-4 {
+  left: 50px;
+  top: 5px; }
+
+.none {
+  display: none;
+  opacity: 0; }
